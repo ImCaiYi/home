@@ -16,5 +16,11 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:best@imcaiyi.xyz"
+  },
+  {
+    "name": "玛丽的BiliBili主页",
+    "icon": "/images/icon/5qwq.png",
+    "tip": "可爱的玛丽 ~",
+    "url": "https://space.bilibili.com/1279770437"
   }
 ]
